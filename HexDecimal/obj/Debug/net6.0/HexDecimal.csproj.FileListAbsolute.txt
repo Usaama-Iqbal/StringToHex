@@ -1,0 +1,15 @@
+E:\Project\LeetCode\HexDecimal\HexDecimal\bin\Debug\net6.0\HexDecimal.exe
+E:\Project\LeetCode\HexDecimal\HexDecimal\bin\Debug\net6.0\HexDecimal.deps.json
+E:\Project\LeetCode\HexDecimal\HexDecimal\bin\Debug\net6.0\HexDecimal.runtimeconfig.json
+E:\Project\LeetCode\HexDecimal\HexDecimal\bin\Debug\net6.0\HexDecimal.dll
+E:\Project\LeetCode\HexDecimal\HexDecimal\bin\Debug\net6.0\HexDecimal.pdb
+E:\Project\LeetCode\HexDecimal\HexDecimal\obj\Debug\net6.0\HexDecimal.csproj.AssemblyReference.cache
+E:\Project\LeetCode\HexDecimal\HexDecimal\obj\Debug\net6.0\HexDecimal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\LeetCode\HexDecimal\HexDecimal\obj\Debug\net6.0\HexDecimal.AssemblyInfoInputs.cache
+E:\Project\LeetCode\HexDecimal\HexDecimal\obj\Debug\net6.0\HexDecimal.AssemblyInfo.cs
+E:\Project\LeetCode\HexDecimal\HexDecimal\obj\Debug\net6.0\HexDecimal.csproj.CoreCompileInputs.cache
+E:\Project\LeetCode\HexDecimal\HexDecimal\obj\Debug\net6.0\HexDecimal.dll
+E:\Project\LeetCode\HexDecimal\HexDecimal\obj\Debug\net6.0\refint\HexDecimal.dll
+E:\Project\LeetCode\HexDecimal\HexDecimal\obj\Debug\net6.0\HexDecimal.pdb
+E:\Project\LeetCode\HexDecimal\HexDecimal\obj\Debug\net6.0\HexDecimal.genruntimeconfig.cache
+E:\Project\LeetCode\HexDecimal\HexDecimal\obj\Debug\net6.0\ref\HexDecimal.dll
